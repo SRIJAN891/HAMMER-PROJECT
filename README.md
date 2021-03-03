@@ -1,1 +1,2 @@
-# HAMMER-PROJECT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
